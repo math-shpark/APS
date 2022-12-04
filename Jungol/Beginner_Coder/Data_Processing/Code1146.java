@@ -1,5 +1,3 @@
-package APS.Jungol.Beginner_Coder.Data_Processing;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
